@@ -1,4 +1,4 @@
-# AngraMainyu
+# AngraMyNew
 
 このリポジトリは多言語で提供されています：  
 - [한국어](README.md)  
@@ -6,7 +6,7 @@
 - [中文](README_zh.md)  
 
 ## 序文
-AngraMainyu — 既存の秩序を揺るがす破壊的精神。  
+AngraMyNew — 既存の秩序を揺るがす破壊的精神。  
 この名前をZarathuの創造的エネルギーに変換し、  
 単なる破壊を超えて新しい秩序と美を築きます。
 

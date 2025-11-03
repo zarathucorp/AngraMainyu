@@ -1,4 +1,4 @@
-# AngraMainyu
+# AngraMyNew
 
 本仓库提供多语言版本：  
 - [한국어](README.md)  
@@ -6,7 +6,7 @@
 - [日本語](README_ja.md)  
 
 ## 序言
-AngraMainyu —— 挑战现有秩序的破坏性精神。  
+AngraMyNew —— 挑战现有秩序的破坏性精神。  
 我们将此名称转化为Zarathu的创造能量，  
 在单纯破坏之外建立新的秩序与美。
 

@@ -1,4 +1,4 @@
-# AngraMainyu
+# AngraMyNew
 
 이 리포지토리는 다국어로 제공됩니다:  
 - [English](README.en.md)  
@@ -6,7 +6,7 @@
 - [中文](README_zh.md)  
 
 ## 서문
-AngraMainyu — 기존 질서를 흔드는 파괴적 정신.  
+AngraMyNew — 기존 질서를 흔드는 파괴적 정신.  
 우리는 이 이름을 차라투의 창조적 에너지로 전환하여,  
 기존의 파괴를 넘어 새로운 질서와 아름다움을 세운다.
 

@@ -1,4 +1,4 @@
-# AngraMainyu
+# AngraMyNew
 
 This repository is available in multiple languages:  
 - [한국어](README.md)  
@@ -6,7 +6,7 @@ This repository is available in multiple languages:
 - [中文](README_zh.md)  
 
 ## Preface
-AngraMainyu — the destructive spirit that challenges the existing order.  
+AngraMyNew — the destructive spirit that challenges the existing order.  
 We transform this name into the creative energy of Zarathu,  
 establishing new order and beauty beyond mere destruction.
 
