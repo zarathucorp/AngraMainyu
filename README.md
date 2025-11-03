@@ -1,4 +1,4 @@
-# AngraMainyu Transmutation
+# AngraMainyu
 
 ## 서문
 AngraMainyu — 기존 질서를 흔드는 파괴적 정신.  
